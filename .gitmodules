@@ -1,0 +1,3 @@
+[submodule "Unifi-Network-Debian"]
+	path = Unifi-Network-Debian
+	url = https://github.com/PCW-Life/Unifi-Network-Debian.git
