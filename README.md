@@ -1,2 +1,2 @@
 # DockerHubImages
-All images that I pushed to my doctor
+All images that I pushed to my DockerHub
