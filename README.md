@@ -1,2 +1,2 @@
 # DockerHubImages
-All images that I pushed to my DockerHub
+All images that I push to my DockerHub
